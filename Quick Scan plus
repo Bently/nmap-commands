@@ -1,0 +1,1 @@
+nmap -sV -T4 -O -F --version-light <target>
